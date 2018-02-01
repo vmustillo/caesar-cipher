@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <algorithm>
 using namespace std;
 
 // Method to encrypt by Caesar shift cipher.  Takes a string to encrypt and the amount of letters to shift
